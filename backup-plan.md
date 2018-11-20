@@ -27,10 +27,16 @@ Ideally, we have a solution that allows dumping the entire cluster state and jus
 ### Full cluster
 Full cluster backup and restore. How to back up all important components and configurations, how often to do that to make sure you don't lose too much work (imagine how much money a bank loses if a stock trading app that works on a microsecond level goes down for hours or days).
 
+#### Procedure
+
 Add more details here
+
+
 
 ### Component / Node based backup
 Backup of individual node states and configurations to resurrect in case they die unexpectedly. Ideally even to pick up work from where the old node died etc.
+
+#### Procedure
 
 Add more details here
 
